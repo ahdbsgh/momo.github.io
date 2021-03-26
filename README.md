@@ -1,5 +1,5 @@
 # MOMO's NLP_LAB blog
-
+https://ahdbsgh.github.io/momo.github.io/
 ### 현재 진행중인 스터디 포스팅
 
 - 파이썬 디자인 패턴
