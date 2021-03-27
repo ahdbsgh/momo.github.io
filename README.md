@@ -11,3 +11,6 @@ https://ahdbsgh.github.io/momo.github.io/
 
 - Poly-encoders: architectures and pre-training strategies for fast and accurate multi-sentence scoring   
   (arXiv:1905.01969)  예정
+
+- A Simple Language Model for Task-Oriented Dialogue (SimpleTOD)   
+  (arXiv:2005.00796v3) 예정
