@@ -1,8 +1,7 @@
 # MOMO's NLP_LAB blog
 https://ahdbsgh.github.io/momo.github.io/
-### 현재 진행중인 스터디 포스팅
 
-- 파이썬 디자인 패턴
+Natural Language Processing 관련 논문, Background, 스터디 모임 관련 자료 정리하는 곳 입니다. 
 
 ### 논문 포스팅
 
@@ -14,3 +13,11 @@ https://ahdbsgh.github.io/momo.github.io/
 
 - A Simple Language Model for Task-Oriented Dialogue (SimpleTOD)   
   (arXiv:2005.00796v3) 예정
+  
+### Background 포스팅
+- TOD(Task-Oriented Dialogue), DST(Dialogue State Tracking)
+
+
+### 현재 진행중인 스터디 포스팅
+
+- 파이썬 디자인 패턴
