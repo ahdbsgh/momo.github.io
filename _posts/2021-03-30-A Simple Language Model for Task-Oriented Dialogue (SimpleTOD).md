@@ -3,8 +3,9 @@ A Simple Language Model for Task-Oriented Dialogue (SimpleTOD) 논문 리뷰
 https://arxiv.org/abs/2005.00796
 
 - TOD, DST의 Background를 보고 오시면 도움이 됩니다.
+  [링크](https://ahdbsgh.github.io/momo.github.io/(TOD,DST)/)
 
-#Introduction
+## Introduction
 - SimpleTOD는 DST를 위한 생성 모델 - SOTA
 
 - SimpleTOD는 dialogue state tracking, action decisions, response generation을 함께 수행하는
@@ -29,7 +30,7 @@ https://arxiv.org/abs/2005.00796
 5. Result값으로 Action값 생성
 6. 이 Action값으로 System 발화 생성
 
-#Method
+## Method
 
 ![image](https://user-images.githubusercontent.com/60643542/112972870-b1899e80-918b-11eb-8d24-839db68ffe26.png)
 
