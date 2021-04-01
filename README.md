@@ -12,7 +12,7 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
   (https://arxiv.org/abs/1905.01969)  예정
 
 - A Simple Language Model for Task-Oriented Dialogue (SimpleTOD)   
-  (https://arxiv.org/abs/2005.00796) 예정
+  (https://arxiv.org/abs/2005.00796)
   
 ### Background 포스팅
 - TOD(Task-Oriented Dialogue), DST(Dialogue State Tracking)
