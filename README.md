@@ -17,7 +17,15 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
 ### Background 포스팅
 - TOD(Task-Oriented Dialogue), DST(Dialogue State Tracking)
 
+- BERT, GPT-X
+
+- TOD, DST관련 논문들 list&insight
+
+
+
 
 ### 현재 진행중인 스터디 포스팅
 
 - 파이썬 디자인 패턴
+
+- 파이썬 코딩의 기술
