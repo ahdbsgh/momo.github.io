@@ -15,7 +15,10 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
   (https://arxiv.org/abs/2005.00796)
   
 - Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack
-  (https://arxiv.org/pdf/1908.06083)
+  (https://arxiv.org/pdf/1908.06083) 예정
+  
+- Extracting Training Data from Large Language Models   
+  (https://arxiv.org/abs/2012.07805) 예정
 ### Background 포스팅
 - TOD(Task-Oriented Dialogue), DST(Dialogue State Tracking)
 
