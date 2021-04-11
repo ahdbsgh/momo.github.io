@@ -1,5 +1,5 @@
 # MOMO's NLP_LAB blog
-https://ahdbsgh.github.io/momo.github.io/
+https://momozzing.github.io/momo.github.io/
 
 Natural Language Processing 관련 논문, Background, 스터디 모임 관련 자료 정리하는 곳 입니다. 
 
