@@ -29,6 +29,8 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
 
 - Docker 사용법
 
+- Post Training 관련 Reference
+
 
 
 
