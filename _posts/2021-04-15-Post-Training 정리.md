@@ -5,7 +5,7 @@ Post Training 관련 Reference
 ![image](https://user-images.githubusercontent.com/60643542/114836883-112fad00-9e0e-11eb-92a3-bb7398c04769.png)
 
 ## Stanford Neural Machine Translation Systems for Spoken Language Domains
-![image](https://user-images.githubusercontent.com/60643542/114836957-24db1380-9e0e-11eb-8d2a-f74e1d27e7b6.png)
+![image](https://user-images.githubusercontent.com/60643542/114996332-b1063d00-9ed9-11eb-86fc-4098e39c3e69.png)
 
 ## BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis
 ![image](https://user-images.githubusercontent.com/60643542/114836991-2dcbe500-9e0e-11eb-8887-56d83536cd41.png)
