@@ -87,12 +87,12 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : 'momo'
+    tracking_id          : "momo"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
-author             : "momo"
+author:
   name             : "momo"
   avatar           : "assets/images/ava.jpg" #path of avatar image, e.g.
   bio              : "Keep Going!!!"
