@@ -31,6 +31,8 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
 
 - Post Training 관련 Reference
 
+- HMM(Hiddn markov models)
+
 
 
 
@@ -39,3 +41,5 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
 - 파이썬 디자인 패턴
 
 - 파이썬 코딩의 기술
+
+- 혼자 공부하는 파이썬
