@@ -1,5 +1,6 @@
 # Semi-supervised Named Entity Recognition in noisy-text
 
+- https://www.aclweb.org/anthology/W16-3927.pdf
 - [https://github.com/napsternxg/TwitterNER](https://github.com/napsternxg/TwitterNER)
 - [https://www.aclweb.org/anthology/W16-3927.pdf](https://www.aclweb.org/anthology/W16-3927.pdf)
 

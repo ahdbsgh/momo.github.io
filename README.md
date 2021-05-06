@@ -20,6 +20,12 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
 - Extracting Training Data from Large Language Models   
   (https://arxiv.org/abs/2012.07805) 예정
   
+- Language-Independent Discriminative Parsing of Temporal Expressions
+  (https://www.aclweb.org/anthology/P13-1009.pdf)
+  
+- Semi-supervised Named Entity Recognition in noisy-text
+  (https://www.aclweb.org/anthology/W16-3927.pdf)
+  
 ### Background 포스팅
 - TOD(Task-Oriented Dialogue), DST(Dialogue State Tracking)
 
@@ -33,13 +39,11 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
 
 - HMM(Hiddn markov models)
 
+- NMT 모델 정리 
+
 
 
 
 ### 현재 진행중인 스터디 포스팅
 
 - 파이썬 디자인 패턴
-
-- 파이썬 코딩의 기술
-
-- 혼자 공부하는 파이썬
