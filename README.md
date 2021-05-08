@@ -26,6 +26,9 @@ Natural Language Processing 관련 논문, Background, 스터디 모임 관련 �
 - Semi-supervised Named Entity Recognition in noisy-text
   (https://www.aclweb.org/anthology/W16-3927.pdf)
   
+- Learning Relational Dependency Networks for Relation Extraction
+  (https://arxiv.org/pdf/1607.00424.pdf)
+  
 ### Background 포스팅
 - TOD(Task-Oriented Dialogue), DST(Dialogue State Tracking)
 
