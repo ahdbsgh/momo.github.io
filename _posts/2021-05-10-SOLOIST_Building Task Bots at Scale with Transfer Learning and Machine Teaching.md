@@ -7,7 +7,7 @@ SOLOIST 는 Transfer learning을 사용한 Task-oriented dialog system
 SOLOIST 는 Transformer 기반의 Auto-regressive language model -> GPT2 사용    
 데이터가 적은 Task-oriented dialog system 안에서 해결방법을 제시  
 
-![image](https://user-images.githubusercontent.com/60643542/117671937-4ac4bf80-b1e4-11eb-8592-df5d9ef02fed.png)
+![image](https://user-images.githubusercontent.com/60643542/117806543-6fc53b00-b295-11eb-867f-e0adfdacf01a.png)
 
 Natural Language Understanding (NLU)은 사용자 의도를 식별하고    
 사용자 입력에서 슬롯 및 해당 값과 같은 관련 정보를 추출한다.    
@@ -28,6 +28,8 @@ Natural Language Generation(NLG)은 답변을 생성한다.
 task 1,2 -> Auto Regressive model 이니 순차적으로 토큰별레벨에 의해 생성됨    
 Task3 -> Cross Entropy 사용 시퀀스의 항목이 일치하는지 안하는지 예측    
 Full Pre-Training Objective ->Log-likelihood를 최대화 하는 방향으로 학습시킴   
+
+![image](https://user-images.githubusercontent.com/60643542/117806650-908d9080-b295-11eb-9bf5-e03bacea91d2.png)
 
 ## DATA
 ![image](https://user-images.githubusercontent.com/60643542/117672582-f4a44c00-b1e4-11eb-87e8-3a74098aba62.png)
