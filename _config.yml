@@ -85,9 +85,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : momo
+    tracking_id          : "G-VVTB24L5V0"
     anonymize_ip         : # true, false (default)
 
 
