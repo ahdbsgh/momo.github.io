@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "momo"
   avatar           : "assets/images/ava.jpg" #path of avatar image, e.g.
-  bio              : "NLP Paper review & Error resolution & NLP news"
+  bio              : "NLP Paper review & Error resolution"
   location         : "Gachon University NLP Lab"
   email            : "ahdbsgh2@naver.com"
   links:
@@ -129,10 +129,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/momozzing"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      url: "https://github.com/momozzing"
+      # url: 
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
