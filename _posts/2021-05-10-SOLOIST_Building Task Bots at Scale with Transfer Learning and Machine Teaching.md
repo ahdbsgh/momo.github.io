@@ -5,11 +5,16 @@ excerpt: "SOLOIST: Building Task Bots at Scale with Transfer Learning and Machin
 categories:
   - Paper review
 tags:
-  - Paper review, NLP , soloist, TOD, Dialog system
+  - Paper review
+  - NLP
+  - soloist
+  - TOD
+  - Dialog system
 last_modified_at: 2021-08-24T08:06:00-05:00
 ---
-====================
-https://arxiv.org/pdf/2005.05298.pdf
+SOLOIST: Building Task Bots at Scale with Transfer Learning and Machine Teaching
+
+[논문 링크](https://arxiv.org/pdf/2005.05298.pdf)
 
 ## introduction
 SOLOIST 는 Transfer learning을 사용한 Task-oriented dialog system    
