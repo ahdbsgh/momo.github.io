@@ -1,5 +1,8 @@
 ---
 title: "Paper review"
 permalink: /Paper_review/
-layout: single
+layout: categories
+author_profile: true
 ---
+
+Paper review space.
