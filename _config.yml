@@ -60,8 +60,8 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : "momo's NLP_lab"
-  instant_search         : "true" #(default), true
+  search_engine_id       : momo's NLP_lab
+  instant_search         : true #(default), true
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -87,7 +87,7 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "momo"
+    tracking_id          : momo
     anonymize_ip         : # true, false (default)
 
 
