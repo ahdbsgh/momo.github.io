@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 
 # Site Settings
 locale                   : "ko"
-title                    : "'MOMO's NLP_LAB"
+title                    : "momo's NLP_LAB"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "momo"
