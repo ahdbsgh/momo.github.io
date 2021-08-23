@@ -31,7 +31,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" #utterances # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "https-momozzing-github-io-momo-github-io"
+    shortname            : "https-momozzing-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -87,7 +87,7 @@ social:
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-VVTB24L5V0"
+    tracking_id          : "G-4RYJGE75H1"
     anonymize_ip         : # true, false (default)
 
 
