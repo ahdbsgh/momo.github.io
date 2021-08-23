@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: https://momozzing.github.io/momo.github.io/
   - title: "Paper review"
-    url: https://momozzing.github.io/momo.github.io/Paper_review/
+    url: https://momozzing.github.io/momo.github.io/categories/Paper_review/
   - title: "Error resolution"
-    url: https://momozzing.github.io/momo.github.io/Error_resolution/
+    url: https://momozzing.github.io/momo.github.io/categories/Error_resolution/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

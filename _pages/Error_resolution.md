@@ -1,8 +1,9 @@
 ---
 title: "Error resolution"
-permalink: /Error_resolution/
-layout: categories
+permalink: /categories/Error_resolution/
+layout: category
 author_profile: true
+taxonomy: Error resolution
 ---
 
 Error resolution space.
