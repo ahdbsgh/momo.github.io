@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "d
 locale                   : "en"
 title                    : "momo's NLP Lab"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+# subtitle                 : ""
 name                     : "momo"
-description              : "Keep Going!!"
+description              : "NLP Paper review & Error resolution & NLP news"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "momo"
   avatar           : "assets/images/ava.jpg" #path of avatar image, e.g.
-  bio              : "Keep Going!!!"
+  bio              : "NLP Paper review & Error resolution & NLP news"
   location         : "Gachon University NLP Lab"
   email            : "ahdbsgh2@naver.com"
   links:
@@ -132,7 +132,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/momozzing"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -209,7 +209,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 
 # Plugins (previously gems:)
