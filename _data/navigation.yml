@@ -1,7 +1,7 @@
-main links
+# main links
 main:
- - title: "Home"
-   url: https://momozzing.github.io/momo.github.io/
+  - title: "Home"
+    url: https://momozzing.github.io/momo.github.io/
   - title: "Paper review"
     url: https://momozzing.github.io/momo.github.io/Paper_review/
   # - title: "Sample Posts"
