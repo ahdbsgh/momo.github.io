@@ -8,5 +8,5 @@ main:
     url: https://momozzing.github.io/categories/Error_resolution/
   - title: "Study"
     url: https://momozzing.github.io/categories/Study/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Dev Setup"
+    url: https://momozzing.github.io/categories/Dev_Setup/
