@@ -3,9 +3,9 @@ title:  "SimpleTOD Paper review"
 excerpt: "SimpleTOD: A Simple Language Model for Task-Oriented Dialogue"
 
 categories:
-  - Study
+  - Paper review
 tags:
-  - Study
+  - Paper review
   - NLP
   - TOD
   - Dialog system
