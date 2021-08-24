@@ -1,7 +1,21 @@
+---
+title:  "Learning Relational Dependency Networks for Relation Extraction paper review"
+excerpt: "Learning Relational Dependency Networks for Relation Extraction"
+
+categories:
+  - Paper review
+tags:
+  - Paper review
+  - NLP
+  - Deep learning
+  - Relationa Extraction
+last_modified_at: 2021-05-07T08:06:00-05:00
+---  
+
 Learning Relational Dependency Networks for Relation Extraction
 ====================
-https://arxiv.org/pdf/1607.00424.pdf
 
+[논문 링크](https://arxiv.org/pdf/1607.00424.pdf)
 ## introduction
 Knowledge base 를 구축하기 위해 관계추출을 위한 KBP slot filling을 사용   
 관계 추출을 위한 패턴을 학습하기 위해 RDN을 사용하는 파이프라인을 제시   

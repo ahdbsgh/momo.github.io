@@ -10,10 +10,10 @@ tags:
   - soloist
   - TOD
   - Dialog system
-last_modified_at: 2021-08-24T08:06:00-05:00
+last_modified_at: 2021-05-10T08:06:00-05:00
 ---
 SOLOIST: Building Task Bots at Scale with Transfer Learning and Machine Teaching
-
+=====================
 [논문 링크](https://arxiv.org/pdf/2005.05298.pdf)
 
 ## introduction

@@ -1,8 +1,20 @@
-# Semi-supervised Named Entity Recognition in noisy-text
+---
+title:  "Semi-supervised Named Entity Recognition in noisy-text Paper review"
+excerpt: "Semi-supervised Named Entity Recognition in noisy-text"
 
-- https://www.aclweb.org/anthology/W16-3927.pdf
-- [https://github.com/napsternxg/TwitterNER](https://github.com/napsternxg/TwitterNER)
-- [https://www.aclweb.org/anthology/W16-3927.pdf](https://www.aclweb.org/anthology/W16-3927.pdf)
+categories:
+  - Paper review
+tags:
+  - Study
+  - NLP
+  - Deep learning
+  - NER
+last_modified_at: 2021-04-26T08:06:00-05:00
+---  
+Semi-supervised Named Entity Recognition in noisy-text
+=====================
+- [깃헙레포링크](https://github.com/napsternxg/TwitterNER)
+- [논문링크](https://www.aclweb.org/anthology/W16-3927.pdf)
 
 NER 할때 주로 쓰는 인코딩 방식은 Begin-Inside-Outside (BIO)방식이다. 
 

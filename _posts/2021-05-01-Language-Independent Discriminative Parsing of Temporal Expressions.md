@@ -1,5 +1,21 @@
+---
+title:  "Language-Independent Discriminative Parsing of Temporal Expressions paper review"
+excerpt: "Language-Independent Discriminative Parsing of Temporal Expressions"
+
+categories:
+  - Paper review
+tags:
+  - Paper review
+  - NLP
+  - Deep learning
+  - Semantic Parsing
+last_modified_at: 2021-05-01T08:06:00-05:00
+---  
 Language-Independent Discriminative Parsing of Temporal Expressions
-===================
+==========================
+- [논문링크](https://aclanthology.org/P13-1009.pdf)
+
+## Introduction 
 
 이 논문은 시간표현에 대한 구문분석 시스템을 제안   
 시간표현에 대한 구문분석을 위해 independent semantic parser를 제안한다.    
