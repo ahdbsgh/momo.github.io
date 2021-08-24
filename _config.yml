@@ -284,6 +284,6 @@ defaults:
 # Math equation
 markdown: kramdown
 highlighter: rouge
-lsi: true
+lsi: false
 excerpt_separator: "\n\n"
 incremental: false
