@@ -14,8 +14,7 @@ tags:
 last_modified_at: 2021-06-29T08:06:00-05:00
 ---
 
-**joint learning for intent, slot-filling relation work**
-==================
+
 
 ## **intent detection**
 intent detection은 사용자의 Utterance에 대한 intent를 Detection하는 과정

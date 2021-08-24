@@ -11,8 +11,7 @@ tags:
   - summary
 last_modified_at: 2021-04-15T08:06:00-05:00
 ---  
-Post-Training References 정리   
-==================
+
 ## Post Training in Deep Learning with Last Kernel
 ![image](https://user-images.githubusercontent.com/60643542/114836883-112fad00-9e0e-11eb-92a3-bb7398c04769.png)
 

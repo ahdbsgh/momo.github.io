@@ -12,8 +12,7 @@ tags:
   - Deep learning
 last_modified_at: 2021-03-30T08:06:00-05:00
 ---
-SimpleTOD: A Simple Language Model for Task-Oriented Dialogue
-=============================
+
 - [논문 링크](https://arxiv.org/abs/2005.00796)
 - TOD, DST의 Background를 보고 오시면 도움이 됩니다.
   [링크](https://momozzing.github.io/momo.github.io/TOD,-DST/)

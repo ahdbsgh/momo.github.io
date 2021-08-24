@@ -11,8 +11,7 @@ tags:
   - NER
 last_modified_at: 2021-04-26T08:06:00-05:00
 ---  
-Semi-supervised Named Entity Recognition in noisy-text
-=====================
+
 - [깃헙레포링크](https://github.com/napsternxg/TwitterNER)
 - [논문링크](https://www.aclweb.org/anthology/W16-3927.pdf)
 

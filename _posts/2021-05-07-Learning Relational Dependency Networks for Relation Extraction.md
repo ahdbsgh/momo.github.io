@@ -12,8 +12,6 @@ tags:
 last_modified_at: 2021-05-07T08:06:00-05:00
 ---  
 
-Learning Relational Dependency Networks for Relation Extraction
-====================
 
 [논문 링크](https://arxiv.org/pdf/1607.00424.pdf)
 ## introduction
