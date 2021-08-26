@@ -98,7 +98,7 @@ $r_t^{mod}$ = 각 $d_t$에 대해 $Y_t$가 언급된 모든 슬롯의 평균 정
 
 **Hybrid scoring**
 
-$r_t^{hyb} = {\alpha_0} \bar{r}_t^{mod} + \sum_{i=1}^4 {\alpha_i}r_t^{rul,i}$
+$r_t^{hyb} = \alpha_0 \bar{r}_t^{mod} + \sum_{i=1}^4 \alpha_i r_t^{rul,i}$
 
 여기서 $r_t^{hyb} \in [0,1]$ , $\sum_{i=0}^4 \alpha_i = 1$
 
