@@ -10,14 +10,18 @@ tags:
   - TOD
   - Dialog system
   - Deep learning
+
 last_modified_at: 2021-03-30T08:06:00-05:00
+mathjax: true
+classes: wide
 ---
 
 - [논문 링크](https://arxiv.org/abs/2005.00796)
 - TOD, DST의 Background를 보고 오시면 도움이 됩니다.
   [링크](https://momozzing.github.io/momo.github.io/TOD,-DST/)
 
-## Introduction
+## **introduction**
+
 - SimpleTOD는 DST를 위한 생성 모델 - SOTA
 
 - SimpleTOD는 dialogue state tracking, action decisions, response generation을 함께 수행하는
@@ -42,7 +46,7 @@ last_modified_at: 2021-03-30T08:06:00-05:00
 5. Result값으로 Action값 생성
 6. 이 Action값으로 System 발화 생성
 
-## Method
+## **Model Architecture**
 
 ![image](https://user-images.githubusercontent.com/60643542/112972870-b1899e80-918b-11eb-8d24-839db68ffe26.png)
 
@@ -51,26 +55,30 @@ last_modified_at: 2021-03-30T08:06:00-05:00
 3. 대화쌍, Belief값, DB값을 SimpleTOD에 넣고 Action값 생성
 4. 대화쌍, Belief값, DB값, Action값을 SimpleTOD에 넣고 Response 생성
 
-## Training
+### **Training Objective**
 
 ![image](https://user-images.githubusercontent.com/60643542/112973471-53a98680-918c-11eb-9b49-cd17be67378e.png)
 
 - GPT-2는 Autoregressive 한 모델 즉 본인이 생성한 값을 다시 입력받고 다음 값 생성
 - (생성한 값)과 (데이터 입력된 값 -1step) 과 CE를 통한 LOSS 최소화하면서 학습
 
-## Dataset
+## **Experiment**
 
-Multi-domain Wizard-of-Oz 2.1(MultiWOZ)
+### **Data**
 
-- 대규모의 다중 도메인의 대화 데이터셋 
+데이터셋은 MultiWOZ 2.1, MultiWOZ 2.0에 대해서 진행한다. 
 
-- 7개의 도메인(레스토랑, 기차, 명소, 호텔, 택시, 병원, 경찰)
+이들은 10000개 이상의 multi-domain 발화로 구성 되어 있으며 35개의 domain-slot쌍과 5개의 도메인(기차, 레스토랑, 호텔, 택시, 명소)로 구성되어 있다. 공개적으로 사용 가능한 가장 큰 3개의 multi-domain TOD dataset이다. 
 
-- 경찰, 병원도메인은 validation, test셋이 없다. 그러므로 빼고 학습진행
+### **Result**
 
-- 다중 도메인의 대화와 Dialogue State(belief State), DB데이터로 구성
 
-## Experiments
+MultiWOZ2.0
+
+![image](https://user-images.githubusercontent.com/60643542/131679702-92c2618e-c8d2-4524-94b3-fb169bf8c898.png)
+
+MultiWOZ2.1
+
 ![image](https://user-images.githubusercontent.com/60643542/112974136-142f6a00-918d-11eb-8465-3e47bc7f20b1.png)
 
 - (O) MultiWOZ 2.1 그대로 넣음 nosiy-labeled annotation 에도 강인한 걸 보여줌   
