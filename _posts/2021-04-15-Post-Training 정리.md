@@ -10,6 +10,8 @@ tags:
   - Deep learning
   - summary
 last_modified_at: 2021-04-15T08:06:00-05:00
+mathjax: true
+classes: wide
 ---  
 
 ## Post Training in Deep Learning with Last Kernel

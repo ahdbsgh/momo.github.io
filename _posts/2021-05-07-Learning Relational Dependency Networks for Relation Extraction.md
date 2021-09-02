@@ -10,6 +10,8 @@ tags:
   - Deep learning
   - Relationa Extraction
 last_modified_at: 2021-05-07T08:06:00-05:00
+mathjax: true
+classes: wide
 ---  
 
 

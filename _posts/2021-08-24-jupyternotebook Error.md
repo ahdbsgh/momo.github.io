@@ -10,6 +10,8 @@ tags:
   - Jupyter notebook Error
   
 last_modified_at: 2021-08-24T08:06:00-05:00
+mathjax: true
+classes: wide
 ---
 
 이 오류가 뜨는 이유는 서버에서 port 8888로 주피터를 사용하고 있었는데

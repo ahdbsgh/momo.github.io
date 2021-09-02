@@ -12,6 +12,8 @@ tags:
   - Slot-filling
   - intent detection
 last_modified_at: 2021-06-29T08:06:00-05:00
+mathjax: true
+classes: wide
 ---
 
 
