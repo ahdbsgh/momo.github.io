@@ -37,11 +37,15 @@ Natural Language Generation(NLG)은 답변을 생성한다.
 ![image](https://user-images.githubusercontent.com/60643542/117672142-85c6f300-b1e4-11eb-99fb-c0e206b2ba27.png)
 
 ![image](https://user-images.githubusercontent.com/60643542/117672179-90818800-b1e4-11eb-9eb4-609b303f162e.png)
+
 여기서 DB는 Belief State를 쿼리로 해서 받아옴으로 1로 설정 그래서 날릴수 있다.
 
 ![image](https://user-images.githubusercontent.com/60643542/117672395-c6bf0780-b1e4-11eb-930e-c8573cd60aa6.png)
+
 task 1,2 -> Auto Regressive model 이니 순차적으로 토큰별레벨에 의해 생성됨    
+
 Task3 -> Cross Entropy 사용 시퀀스의 항목이 일치하는지 안하는지 예측    
+
 Full Pre-Training Objective ->Log-likelihood를 최대화 하는 방향으로 학습시킴   
 
 ![image](https://user-images.githubusercontent.com/60643542/117806650-908d9080-b295-11eb-9bf5-e03bacea91d2.png)
