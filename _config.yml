@@ -280,5 +280,5 @@ defaults:
       comments: true
       share: true
       related: true
-      toc_ads: true
+      toc_ads: false
       toc_sticky: true
