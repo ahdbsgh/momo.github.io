@@ -19,7 +19,7 @@ title                    : "momo's NLP Lab"
 title_separator          : "-"
 # subtitle                 : ""
 name                     : "momo"
-description              : "NLP Paper review & Error resolution & NLP news"
+description              : "NLP Paper review & Error resolution & NLP Study"
 url                      : https://momozzing.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
